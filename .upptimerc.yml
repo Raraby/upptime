@@ -6,17 +6,17 @@ repo: upptime # Your GitHub repository name
 sites:  
   - name: Google
     url: https://www.google.com
-  - name: Hypixel
-    url: https://hypixel.net
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Youtube
-    url: https://www.youtube.com
-  - name: Instagram
+  #- name: Hypixel
+  #  url: https://hypixel.net
+  #- name: Wikipedia
+  #  url: https://en.wikipedia.org
+  #- name: Youtube
+  #  url: https://www.youtube.com
+  #- name: Instagram
     # method: HEAD
-    url: https://www.instagram.com
-  - name: Discord
-    url: https://discord.com/
+  #  url: https://www.instagram.com
+  #- name: Discord
+  #  url: https://discord.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
