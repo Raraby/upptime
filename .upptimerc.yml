@@ -19,6 +19,8 @@ sites:
   - name: Instagram
     # method: HEAD
     url: https://www.instagram.com
+  - name: Osu
+    url: https://osu.ppy.sh/home
   - name: Wikipedia
     url: https://en.wikipedia.org
 
