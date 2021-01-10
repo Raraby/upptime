@@ -11,10 +11,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 90,
+    "timeDay": 91,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Hypixel",
+    "url": "https://hypixel.net",
+    "icon": "https://favicons.githubusercontent.com/hypixel.net",
+    "slug": "hypixel",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 208,
+    "timeDay": 208,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]
