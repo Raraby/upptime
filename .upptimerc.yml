@@ -6,8 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:  
   - name: Google
     url: https://www.google.com
-  #- name: Hypixel
-  #  url: https://hypixel.net
+  - name: Hypixel
+    url: https://hypixel.net
   #- name: Wikipedia
   #  url: https://en.wikipedia.org
   #- name: Youtube
