@@ -36,6 +36,10 @@ sites:
     url: https://onedrive.live.com
   - name: GitHub
     url: https://github.com
+  - name: Cloudflare
+    url: https://www.cloudflare.com
+  - name: Cloudflare Status
+    url: https://www.cloudflarestatus.com
   - name: Wikipedia
     url: https://en.wikipedia.org
 
