@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Hypixel",
-    "url": "https://hypixel.net",
-    "icon": "https://favicons.githubusercontent.com/hypixel.net",
-    "slug": "hypixel",
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org",
+    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 220,
+    "timeDay": 251,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   }
 ]
