@@ -12,8 +12,10 @@ sites:
     url: https://translate.google.co.jp
   - name: Google Photo
     url: https://photos.google.com
+    icon: https://www.google.com/photos/about/static/images/logos/logo_photos_192px.png
   - name: Google Play
     url: https://play.google.com/store
+    icon: https://www.gstatic.com/android/market_images/web/favicon_v2.ico
   - name: Google MAP
     url: https://www.google.co.jp/maps
   - name: Hypixel
