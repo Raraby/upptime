@@ -19,8 +19,20 @@ sites:
   - name: Instagram
     # method: HEAD
     url: https://www.instagram.com
+  - name: Minecraft
+    url: https://www.minecraft.net
+  - name: Twitch
+    url: https://www.twitch.tv
   - name: Osu
     url: https://osu.ppy.sh/home
+  - name: Google Drive
+    url: https://drive.google.com/drive
+  - name: Google Cloud
+    url: https://console.cloud.google.com
+  - name: OneDrive
+    url: https://onedrive.live.com
+  - name: GitHub
+    url: https://github.com
   - name: Wikipedia
     url: https://en.wikipedia.org
 
