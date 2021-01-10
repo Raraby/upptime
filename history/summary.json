@@ -11,10 +11,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 91,
+    "timeDay": 90,
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Youtube",
+    "url": "https://www.youtube.com",
+    "icon": "https://favicons.githubusercontent.com/www.youtube.com",
+    "slug": "youtube",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 592,
+    "timeDay": 592,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   }
 ]
