@@ -24,10 +24,12 @@ sites:
     icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
   - name: Twitch
     url: https://www.twitch.tv
+    icon: https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png
   - name: Osu
     url: https://osu.ppy.sh/home
   - name: Google Drive
     url: https://drive.google.com/drive
+    icon: https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png
   - name: Google Cloud
     url: https://console.cloud.google.com
   - name: OneDrive
