@@ -8,6 +8,7 @@ sites:
     url: https://www.google.com
   - name: Hypixel
     url: https://hypixel.net
+    icon: https://hypixel.net/favicon-32x32.png
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Youtube
