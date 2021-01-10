@@ -21,6 +21,7 @@ sites:
     url: https://www.instagram.com
   - name: Minecraft
     url: https://www.minecraft.net
+    icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
   - name: Twitch
     url: https://www.twitch.tv
   - name: Osu
