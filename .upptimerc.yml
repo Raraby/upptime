@@ -10,8 +10,8 @@ sites:
   #  url: https://hypixel.net
   #- name: Wikipedia
   #  url: https://en.wikipedia.org
-  #- name: Youtube
-  #  url: https://www.youtube.com
+  - name: Youtube
+    url: https://www.youtube.com
   #- name: Instagram
     # method: HEAD
   #  url: https://www.instagram.com
