@@ -32,6 +32,7 @@ sites:
     icon: https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png
   - name: Google Cloud
     url: https://console.cloud.google.com
+    icon: https://www.gstatic.com/devrel-devsite/prod/ve312520032ba2ac0c4d23f7b46fc670cbbe051886a2d1f04563a5e4768ad9787/cloud/images/favicons/onecloud/super_cloud.png
   - name: OneDrive
     url: https://onedrive.live.com
   - name: GitHub
