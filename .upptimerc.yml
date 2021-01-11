@@ -60,10 +60,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upp
-  # Upptime
+  name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Upptime
+  introMessage: 
   # This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
@@ -71,7 +70,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # js:
-  # css: 
+  css: ".svelte-ngkazm,.svelte-1sgaob0,.svelte-jbr799{display: none;} .svelte-1uadwzk{margin-top: 30px;}"
       
 i18n:
   averageResponseTime: "Ping: $TIMEms"
