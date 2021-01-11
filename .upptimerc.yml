@@ -49,6 +49,8 @@ sites:
     url: https://github.com
   - name: Cloudflare
     url: https://www.cloudflare.com
+  - name: Beyond Description
+    url: https://raraby.github.io/BeyondDescription/
   - name: Wikipedia
     url: https://en.wikipedia.org
 
