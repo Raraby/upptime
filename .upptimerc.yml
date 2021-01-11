@@ -71,7 +71,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # js: "console.log('test')"
-  # css: ".svelte-ngkazm,.svelte-1sgaob0,.svelte-jbr799{display: none;} .svelte-1uadwzk{margin-top: 30px;}"
+  css: "body { opacity: 0.5 }"
+  # ".svelte-ngkazm,.svelte-1sgaob0,.svelte-jbr799{display: none;} .svelte-1uadwzk{margin-top: 30px;}"
       
 i18n:
   averageResponseTime: "Ping: $TIMEms"
