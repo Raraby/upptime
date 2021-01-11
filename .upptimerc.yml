@@ -75,7 +75,10 @@ status-website:
   # ".svelte-ngkazm,.svelte-1sgaob0,.svelte-jbr799{display: none;} .svelte-1uadwzk{margin-top: 30px;}"
       
 i18n:
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Overall uptime
   averageResponseTime: "Ping: $TIMEms"
+  averageResponseTimeTitle: Average response  
   footer: ""
 
 # Upptime also supports notifications, assigning issues, and more
