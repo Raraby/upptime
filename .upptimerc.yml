@@ -61,7 +61,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: 
+  # "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: 
   # This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -69,12 +70,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  # js:
+  js: "console.log('test')"
   css: ".svelte-ngkazm,.svelte-1sgaob0,.svelte-jbr799{display: none;} .svelte-1uadwzk{margin-top: 30px;}"
       
 i18n:
   averageResponseTime: "Ping: $TIMEms"
-  footer: Upptime
+  footer: 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
