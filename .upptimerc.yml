@@ -68,6 +68,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 i18n:
+  averageResponseTime: "Ping: $TIMEms"
   footer: Upptime
 
 # Upptime also supports notifications, assigning issues, and more
