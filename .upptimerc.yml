@@ -71,7 +71,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # js: "console.log('test')"
-  css: ".svelte-ngkazm, .svelte-1sgaob0, .svelte-jbr799 {display: none;} .svelte-1uadwzk, .sapper {margin-top: 30px;} body {opacity: 0.8}"
+  css: ".svelte-ngkazm, .svelte-1sgaob0, .svelte-jbr799 {display: none;} .svelte-1uadwzk, .sapper {margin-top: 30px;}"
       
 i18n:
   overallUptime: "Overall uptime: $UPTIME"
