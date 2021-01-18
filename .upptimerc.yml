@@ -23,8 +23,10 @@ sites:
     icon: https://hypixel.net/favicon-32x32.png
   - name: Hypixel API
     url: https://api.hypixel.net
+    icon: https://hypixel.net/favicon-32x32.png
   - name: Plancke
     url: https://plancke.io/hypixel/player/stats/
+    icon: https://plancke.io/favicon.ico
   - name: Youtube
     url: https://www.youtube.com
   - name: Discord
