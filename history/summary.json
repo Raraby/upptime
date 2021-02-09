@@ -112,9 +112,9 @@
     "url": "https://hypixel.net",
     "icon": "https://hypixel.net/favicon-32x32.png",
     "slug": "hypixel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
@@ -124,6 +124,7 @@
     "timeMonth": 183,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2021-02-09": 0,
       "2021-01-28": 61,
       "2021-01-25": 56
     }
