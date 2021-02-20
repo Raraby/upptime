@@ -227,19 +227,19 @@
     "url": "https://www.minecraft.net",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "minecraft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 672,
-    "timeWeek": 623,
-    "timeMonth": 718,
-    "timeYear": 843,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 842,
+    "timeDay": 699,
+    "timeWeek": 636,
+    "timeMonth": 719,
+    "timeYear": 842,
     "dailyMinutesDown": {
-      "2021-02-20": 0
+      "2021-02-20": 19
     }
   },
   {
