@@ -1,7 +1,7 @@
 url: https://hypixel.net
-status: up
-code: 200
-responseTime: 79
-lastUpdated: 2021-03-01T10:59:54.222Z
+status: down
+code: 503
+responseTime: 178
+lastUpdated: 2021-03-01T11:07:36.435Z
 startTime: Sun Jan 10 2021 05:01:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
