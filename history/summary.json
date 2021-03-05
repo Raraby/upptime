@@ -252,19 +252,19 @@
     "url": "https://www.twitch.tv",
     "icon": "https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png",
     "slug": "twitch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 7730,
-    "timeWeek": 2027,
-    "timeMonth": 683,
-    "timeYear": 373,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 370,
+    "timeDay": 5181,
+    "timeWeek": 1811,
+    "timeMonth": 663,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-03-05": 0
+      "2021-03-05": 12
     }
   },
   {
