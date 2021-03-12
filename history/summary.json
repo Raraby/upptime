@@ -120,7 +120,7 @@
     "uptimeYear": "98.65%",
     "time": 155,
     "timeDay": 169,
-    "timeWeek": 92,
+    "timeWeek": 93,
     "timeMonth": 137,
     "timeYear": 155,
     "dailyMinutesDown": {
@@ -343,19 +343,19 @@
     "url": "https://github.com",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 255,
-    "timeWeek": 240,
-    "timeMonth": 249,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 317,
+    "timeDay": 507,
+    "timeWeek": 305,
+    "timeMonth": 267,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2021-03-12": 0
+      "2021-03-12": 11
     }
   },
   {
