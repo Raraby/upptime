@@ -22,9 +22,9 @@
     "url": "https://www.microsoft.com",
     "icon": "https://favicons.githubusercontent.com/www.microsoft.com",
     "slug": "minecrosoft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 316,
     "timeMonth": 305,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-29": 0
+    }
   },
   {
     "name": "Google Translate",
@@ -234,12 +236,12 @@
     "slug": "minecraft",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "85.34%",
+    "uptimeDay": "97.90%",
     "uptimeWeek": "96.17%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.68%",
     "time": 937,
-    "timeDay": 3407,
+    "timeDay": 5697,
     "timeWeek": 2068,
     "timeMonth": 1260,
     "timeYear": 937,
@@ -333,12 +335,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 331,
     "timeDay": 95,
-    "timeWeek": 318,
+    "timeWeek": 326,
     "timeMonth": 313,
     "timeYear": 331,
     "dailyMinutesDown": {
