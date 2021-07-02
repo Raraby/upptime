@@ -150,11 +150,11 @@
     "icon": "https://hypixel.net/favicon-32x32.png",
     "slug": "hypixel-api",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.60%",
-    "uptimeYear": "97.18%",
+    "uptimeYear": "97.19%",
     "time": 217,
     "timeDay": 61,
     "timeWeek": 103,
@@ -174,9 +174,9 @@
     "url": "https://plancke.io/hypixel/player/stats/",
     "icon": "https://plancke.io/favicon.ico",
     "slug": "plancke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -186,6 +186,7 @@
     "timeMonth": 140,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2021-07-02": 0,
       "2021-06-25": 34
     }
   },
@@ -259,7 +260,7 @@
     "uptimeYear": "99.78%",
     "time": 923,
     "timeDay": 952,
-    "timeWeek": 1121,
+    "timeWeek": 1118,
     "timeMonth": 963,
     "timeYear": 923,
     "dailyMinutesDown": {
