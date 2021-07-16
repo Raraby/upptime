@@ -177,18 +177,19 @@
     "url": "https://plancke.io/hypixel/player/stats/",
     "icon": "https://plancke.io/favicon.ico",
     "slug": "plancke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 202,
-    "timeDay": 142,
-    "timeWeek": 230,
-    "timeMonth": 161,
-    "timeYear": 202,
+    "time": 201,
+    "timeDay": 147,
+    "timeWeek": 220,
+    "timeMonth": 160,
+    "timeYear": 201,
     "dailyMinutesDown": {
+      "2021-07-16": 0,
       "2021-07-02": 24,
       "2021-06-25": 34
     }
@@ -437,17 +438,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 275,
     "timeWeek": 248,
     "timeMonth": 230,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2021-07-16": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
