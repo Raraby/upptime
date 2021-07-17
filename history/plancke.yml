@@ -1,7 +1,7 @@
 url: https://plancke.io/hypixel/player/stats/
-status: down
-code: 502
-responseTime: 611
-lastUpdated: 2021-07-17T15:49:08.326Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2021-07-17T15:55:57.048Z
 startTime: Mon Jan 18 2021 15:01:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
