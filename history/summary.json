@@ -22,11 +22,11 @@
     "url": "https://www.microsoft.com",
     "icon": "https://favicons.githubusercontent.com/www.microsoft.com",
     "slug": "minecrosoft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 4333,
@@ -34,7 +34,7 @@
     "timeMonth": 605,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2021-07-22": 12
+      "2021-07-22": 0
     }
   },
   {
@@ -158,7 +158,7 @@
     "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "97.49%",
     "time": 207,
     "timeDay": 40,
