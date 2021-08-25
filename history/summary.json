@@ -44,18 +44,16 @@
     "slug": "google-translate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 500,
     "timeWeek": 312,
     "timeMonth": 246,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2021-08-25": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google Photo",
@@ -82,18 +80,16 @@
     "slug": "google-play",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 600,
     "timeWeek": 517,
     "timeMonth": 465,
     "timeYear": 465,
-    "dailyMinutesDown": {
-      "2021-08-25": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google MAP",
@@ -368,18 +364,19 @@
     "url": "https://onedrive.live.com",
     "icon": "https://favicons.githubusercontent.com/onedrive.live.com",
     "slug": "one-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.83%",
     "time": 327,
-    "timeDay": 272,
-    "timeWeek": 933,
-    "timeMonth": 394,
+    "timeDay": 367,
+    "timeWeek": 894,
+    "timeMonth": 393,
     "timeYear": 327,
     "dailyMinutesDown": {
+      "2021-08-25": 0,
       "2021-08-20": 16,
       "2021-08-16": 67,
       "2021-08-11": 18,
