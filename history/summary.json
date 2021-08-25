@@ -42,19 +42,19 @@
     "url": "https://translate.google.co.jp",
     "icon": "https://favicons.githubusercontent.com/translate.google.co.jp",
     "slug": "google-translate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 653,
-    "timeWeek": 327,
-    "timeMonth": 248,
+    "timeDay": 500,
+    "timeWeek": 312,
+    "timeMonth": 246,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2021-08-25": 0
+      "2021-08-25": 14
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://play.google.com/store",
     "icon": "https://www.gstatic.com/android/market_images/web/favicon_v2.ico",
     "slug": "google-play",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 705,
-    "timeWeek": 533,
-    "timeMonth": 467,
+    "timeDay": 600,
+    "timeWeek": 517,
+    "timeMonth": 465,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2021-08-25": 0
+      "2021-08-25": 14
     }
   },
   {
@@ -372,12 +372,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.29%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.83%",
     "time": 327,
     "timeDay": 272,
     "timeWeek": 933,
-    "timeMonth": 392,
+    "timeMonth": 394,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2021-08-20": 16,
